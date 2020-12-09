@@ -1,0 +1,12 @@
+==================================================================
+Congratulations! Installed successfully!
+==================================================================
+外网面板地址: http://222.90.63.194:8888/d6074aec
+内网面板地址: http://192.168.31.105:8888/d6074aec
+username: msu56fw2
+password: 46d5fc5b
+If you cannot access the panel,
+release the following panel port [8888] in the security group
+若无法访问面板，请检查防火墙/安全组是否有放行面板[8888]端口
+==================================================================
+
