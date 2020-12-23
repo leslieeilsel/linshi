@@ -1,0 +1,11 @@
+==================================================================
+Congratulations! Installed successfully!
+==================================================================
+外网面板地址: http://219.145.33.16:8888/96d0de66
+内网面板地址: http://192.168.31.40:8888/96d0de66
+username: gzzwjmkw
+password: aa0a5afc
+If you cannot access the panel,
+release the following panel port [8888] in the security group
+若无法访问面板，请检查防火墙/安全组是否有放行面板[8888]端口
+==================================================================
